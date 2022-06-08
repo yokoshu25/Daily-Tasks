@@ -1,2 +1,3 @@
 # Daily-Tasks
-Daily tanks and goals
+Daily tanks and goals 
+For completed achievements, open [Issues]
